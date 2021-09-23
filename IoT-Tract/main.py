@@ -4,8 +4,15 @@ class Main:
     def __init__(self):
         pass
 
+    def analise_1(self, a, b):
+        c = pd.DataFrame()
+        c['A'] = a.Usabilidade
+        c['B'] = b.Usabilidade
+        print(c)
+
 
 if __name__ == '__main__':
+    newMain = Main()
     print(f"Controle do Processo de Produção dos Sensores")
     print(f"1 - Preparação dos Módulos de Hardware")
     print(f"2 - Programação do Firmware")
@@ -34,3 +41,9 @@ if __name__ == '__main__':
     elif choice == 6:
         x = pd.read_csv('Tabelas/envio_cliente.csv')
         print(x.head(10))
+
+    a = pd.read_csv('Tabelas/preparacao_modulos_hardware.csv')
+    b = x = pd.read_csv('Tabelas/envio_cliente.csv')
+
+    newMain.analise_1(a, b)
+    
