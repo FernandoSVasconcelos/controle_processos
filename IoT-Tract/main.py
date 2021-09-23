@@ -17,20 +17,20 @@ if __name__ == '__main__':
     choice = int(input('Sua escolha: '))
 
     if choice == 1:
-        x = pd.read_csv('preparacao_modulos_hardware.csv')
+        x = pd.read_csv('Tabelas/preparacao_modulos_hardware.csv')
         print(x.head(10))
     elif choice == 2:
-        x = pd.read_csv('programação_firmware.csv')
+        x = pd.read_csv('Tabelas/programação_firmware.csv')
         print(x.head(10))
     elif choice == 3:
-        x = pd.read_csv('preparação_caixa.csv')
+        x = pd.read_csv('Tabelas/preparação_caixa.csv')
         print(x.head(10))
     elif choice == 4:
-        x = pd.read_csv('fixação_sensor.csv')
+        x = pd.read_csv('Tabelas/fixação_sensor.csv')
         print(x.head(10))
     elif choice == 5:
-        x = pd.read_csv('fechamento_acabamento_sensor.csv')
+        x = pd.read_csv('Tabelas/fechamento_acabamento_sensor.csv')
         print(x.head(10))
     elif choice == 6:
-        x = pd.read_csv('envio_cliente.csv')
+        x = pd.read_csv('Tabelas/envio_cliente.csv')
         print(x.head(10))

@@ -1,0 +1,101 @@
+Código_Sensor,Número_Chip,Código_Módulo,Controle_Qualidade,Status_Sensor,Mudança_Status,Solução_Incremental,Usabilidade
+0,84319,751403,Bom,Funcional,Não Funcional,Sim,Usável
+1,68962,914777,Ruim,Funcional,Não Funcional,Não,Não usável
+2,14047,797466,Regular,Funcional,Não Funcional,Não,Usável
+3,90007,673349,Ruim,Funcional,Não Funcional,Não,Usável
+4,18176,373629,Bom,Não Funcional,Não Funcional,Não,Usável
+5,95137,744414,Bom,Não Funcional,Funcional,Sim,Não usável
+6,69009,665049,Ruim,Não Funcional,Funcional,Sim,Não usável
+7,99482,268920,Regular,Funcional,Não Funcional,Não,Não usável
+8,94751,870640,Regular,Não Funcional,Não Funcional,Não,Usável
+9,81281,265485,Bom,Não Funcional,Funcional,Sim,Não usável
+10,45918,139998,Regular,Funcional,Não Funcional,Sim,Não usável
+11,52154,548765,Regular,Não Funcional,Não Funcional,Não,Não usável
+12,66142,197042,Regular,Não Funcional,Funcional,Sim,Usável
+13,16372,620510,Regular,Não Funcional,Funcional,Não,Usável
+14,53853,487483,Regular,Não Funcional,Não Funcional,Sim,Usável
+15,11126,909707,Bom,Não Funcional,Não Funcional,Não,Usável
+16,21734,877723,Bom,Não Funcional,Não Funcional,Sim,Usável
+17,84182,280290,Ruim,Não Funcional,Não Funcional,Sim,Não usável
+18,76321,358281,Regular,Não Funcional,Não Funcional,Não,Não usável
+19,58785,498150,Bom,Funcional,Não Funcional,Não,Não usável
+20,70665,967293,Bom,Não Funcional,Funcional,Sim,Não usável
+21,43846,802290,Bom,Funcional,Não Funcional,Sim,Não usável
+22,68031,114706,Bom,Não Funcional,Funcional,Não,Não usável
+23,12322,371877,Ruim,Funcional,Não Funcional,Sim,Usável
+24,97189,281272,Bom,Funcional,Funcional,Não,Não usável
+25,48843,643104,Bom,Não Funcional,Funcional,Não,Não usável
+26,14492,155495,Regular,Não Funcional,Funcional,Sim,Usável
+27,13190,768856,Ruim,Funcional,Funcional,Sim,Usável
+28,42449,303280,Bom,Funcional,Funcional,Sim,Não usável
+29,60592,164712,Ruim,Não Funcional,Funcional,Sim,Usável
+30,42813,231449,Regular,Funcional,Não Funcional,Não,Não usável
+31,11242,880329,Ruim,Não Funcional,Não Funcional,Sim,Não usável
+32,80237,414907,Bom,Não Funcional,Funcional,Não,Usável
+33,68275,311317,Bom,Não Funcional,Não Funcional,Não,Usável
+34,91540,555323,Regular,Não Funcional,Funcional,Sim,Não usável
+35,66203,459622,Ruim,Funcional,Não Funcional,Não,Usável
+36,61268,629070,Ruim,Funcional,Não Funcional,Sim,Usável
+37,82597,558443,Ruim,Funcional,Funcional,Sim,Não usável
+38,22921,123913,Ruim,Funcional,Não Funcional,Não,Não usável
+39,63171,777947,Ruim,Funcional,Não Funcional,Sim,Não usável
+40,79619,373354,Ruim,Funcional,Funcional,Sim,Não usável
+41,45770,725312,Bom,Funcional,Não Funcional,Sim,Não usável
+42,18407,379259,Ruim,Não Funcional,Não Funcional,Não,Usável
+43,66822,784867,Ruim,Funcional,Não Funcional,Não,Usável
+44,99903,222601,Ruim,Não Funcional,Funcional,Não,Usável
+45,74656,163156,Ruim,Não Funcional,Não Funcional,Sim,Usável
+46,18728,937476,Regular,Funcional,Funcional,Sim,Não usável
+47,10259,985193,Regular,Não Funcional,Não Funcional,Não,Usável
+48,90847,509409,Ruim,Funcional,Funcional,Sim,Não usável
+49,92515,917375,Ruim,Funcional,Não Funcional,Sim,Usável
+50,26187,768132,Regular,Funcional,Funcional,Não,Não usável
+51,66060,276414,Bom,Funcional,Funcional,Sim,Usável
+52,56379,417546,Ruim,Funcional,Funcional,Sim,Não usável
+53,58322,615935,Regular,Funcional,Não Funcional,Não,Não usável
+54,92456,354247,Ruim,Funcional,Não Funcional,Não,Não usável
+55,45752,369625,Bom,Funcional,Funcional,Sim,Não usável
+56,18347,209125,Regular,Funcional,Não Funcional,Sim,Não usável
+57,37643,899488,Bom,Funcional,Não Funcional,Não,Usável
+58,63966,274140,Ruim,Não Funcional,Não Funcional,Sim,Não usável
+59,48624,703473,Regular,Não Funcional,Funcional,Não,Usável
+60,50921,645698,Bom,Não Funcional,Funcional,Sim,Não usável
+61,13834,345889,Regular,Funcional,Funcional,Não,Usável
+62,87840,427925,Regular,Funcional,Não Funcional,Sim,Usável
+63,54064,839937,Ruim,Funcional,Funcional,Não,Usável
+64,62860,670182,Ruim,Funcional,Funcional,Não,Não usável
+65,74244,210052,Ruim,Não Funcional,Funcional,Sim,Não usável
+66,37624,737626,Ruim,Não Funcional,Funcional,Sim,Usável
+67,46301,983520,Regular,Funcional,Funcional,Sim,Usável
+68,56075,673651,Ruim,Não Funcional,Não Funcional,Sim,Usável
+69,69342,482020,Ruim,Funcional,Funcional,Sim,Não usável
+70,72116,665190,Bom,Funcional,Funcional,Não,Usável
+71,13994,311971,Regular,Funcional,Não Funcional,Sim,Usável
+72,25543,657415,Regular,Funcional,Funcional,Não,Usável
+73,83776,633376,Ruim,Funcional,Funcional,Não,Não usável
+74,93729,921478,Ruim,Funcional,Funcional,Sim,Não usável
+75,58591,386149,Ruim,Não Funcional,Funcional,Não,Usável
+76,41255,984169,Regular,Não Funcional,Não Funcional,Sim,Não usável
+77,66870,495199,Bom,Não Funcional,Não Funcional,Não,Usável
+78,50610,323835,Bom,Não Funcional,Funcional,Não,Não usável
+79,12643,136711,Ruim,Funcional,Não Funcional,Sim,Usável
+80,43731,109337,Regular,Funcional,Funcional,Sim,Não usável
+81,23021,679241,Bom,Funcional,Não Funcional,Não,Usável
+82,95281,444929,Bom,Funcional,Não Funcional,Sim,Usável
+83,79407,546371,Regular,Não Funcional,Funcional,Sim,Usável
+84,81594,419766,Ruim,Funcional,Não Funcional,Sim,Não usável
+85,64669,954112,Regular,Funcional,Não Funcional,Não,Usável
+86,40856,760108,Regular,Não Funcional,Não Funcional,Não,Usável
+87,84561,364884,Bom,Funcional,Funcional,Sim,Usável
+88,74069,356618,Bom,Não Funcional,Funcional,Sim,Usável
+89,52716,120770,Regular,Funcional,Não Funcional,Não,Usável
+90,46183,692924,Ruim,Não Funcional,Funcional,Sim,Não usável
+91,57436,468036,Bom,Não Funcional,Funcional,Sim,Usável
+92,32804,271504,Ruim,Funcional,Funcional,Não,Usável
+93,65794,695156,Bom,Não Funcional,Não Funcional,Sim,Não usável
+94,12720,809309,Regular,Funcional,Não Funcional,Não,Usável
+95,41454,783014,Regular,Não Funcional,Funcional,Sim,Não usável
+96,83382,567896,Regular,Não Funcional,Funcional,Não,Usável
+97,99345,967552,Bom,Não Funcional,Funcional,Sim,Usável
+98,48638,176649,Bom,Funcional,Não Funcional,Sim,Não usável
+99,89619,573667,Regular,Funcional,Não Funcional,Não,Usável
