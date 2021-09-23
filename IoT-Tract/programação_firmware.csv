@@ -1,0 +1,101 @@
+,Sensor,Controle_Qualidade,Status_Sensor,Mudança_Status,Solução_Incremental,Usabilidade
+0,Sensor 0,Regular,Funcional,Não Funcional,Sim,Não usável
+1,Sensor 1,Bom,Não Funcional,Funcional,Não,Não usável
+2,Sensor 2,Bom,Funcional,Funcional,Não,Não usável
+3,Sensor 3,Regular,Funcional,Funcional,Não,Não usável
+4,Sensor 4,Bom,Funcional,Funcional,Não,Usável
+5,Sensor 5,Ruim,Funcional,Não Funcional,Não,Usável
+6,Sensor 6,Regular,Não Funcional,Não Funcional,Sim,Usável
+7,Sensor 7,Ruim,Funcional,Funcional,Sim,Usável
+8,Sensor 8,Ruim,Não Funcional,Não Funcional,Sim,Não usável
+9,Sensor 9,Ruim,Funcional,Funcional,Não,Não usável
+10,Sensor 10,Regular,Funcional,Não Funcional,Não,Usável
+11,Sensor 11,Ruim,Não Funcional,Não Funcional,Não,Não usável
+12,Sensor 12,Regular,Não Funcional,Não Funcional,Não,Usável
+13,Sensor 13,Regular,Funcional,Funcional,Sim,Não usável
+14,Sensor 14,Bom,Funcional,Não Funcional,Não,Não usável
+15,Sensor 15,Bom,Funcional,Não Funcional,Sim,Não usável
+16,Sensor 16,Regular,Funcional,Não Funcional,Não,Não usável
+17,Sensor 17,Ruim,Funcional,Não Funcional,Não,Usável
+18,Sensor 18,Regular,Não Funcional,Funcional,Sim,Não usável
+19,Sensor 19,Bom,Funcional,Não Funcional,Não,Usável
+20,Sensor 20,Bom,Não Funcional,Não Funcional,Não,Não usável
+21,Sensor 21,Regular,Não Funcional,Funcional,Não,Usável
+22,Sensor 22,Regular,Não Funcional,Não Funcional,Sim,Não usável
+23,Sensor 23,Regular,Não Funcional,Não Funcional,Sim,Usável
+24,Sensor 24,Regular,Funcional,Funcional,Sim,Usável
+25,Sensor 25,Ruim,Funcional,Não Funcional,Não,Não usável
+26,Sensor 26,Bom,Não Funcional,Funcional,Não,Não usável
+27,Sensor 27,Ruim,Não Funcional,Não Funcional,Não,Não usável
+28,Sensor 28,Bom,Funcional,Funcional,Não,Não usável
+29,Sensor 29,Ruim,Não Funcional,Funcional,Sim,Usável
+30,Sensor 30,Ruim,Não Funcional,Não Funcional,Não,Usável
+31,Sensor 31,Regular,Funcional,Funcional,Não,Não usável
+32,Sensor 32,Bom,Funcional,Funcional,Não,Não usável
+33,Sensor 33,Ruim,Funcional,Não Funcional,Não,Usável
+34,Sensor 34,Regular,Não Funcional,Funcional,Sim,Usável
+35,Sensor 35,Ruim,Funcional,Não Funcional,Não,Usável
+36,Sensor 36,Ruim,Funcional,Não Funcional,Não,Usável
+37,Sensor 37,Bom,Funcional,Não Funcional,Sim,Usável
+38,Sensor 38,Ruim,Funcional,Não Funcional,Sim,Usável
+39,Sensor 39,Ruim,Funcional,Não Funcional,Não,Usável
+40,Sensor 40,Bom,Não Funcional,Funcional,Sim,Não usável
+41,Sensor 41,Regular,Funcional,Não Funcional,Sim,Não usável
+42,Sensor 42,Regular,Não Funcional,Não Funcional,Não,Não usável
+43,Sensor 43,Regular,Funcional,Não Funcional,Sim,Usável
+44,Sensor 44,Bom,Não Funcional,Funcional,Não,Usável
+45,Sensor 45,Ruim,Não Funcional,Funcional,Sim,Não usável
+46,Sensor 46,Bom,Não Funcional,Não Funcional,Não,Não usável
+47,Sensor 47,Bom,Funcional,Não Funcional,Não,Não usável
+48,Sensor 48,Bom,Não Funcional,Funcional,Sim,Usável
+49,Sensor 49,Bom,Não Funcional,Não Funcional,Não,Não usável
+50,Sensor 50,Bom,Funcional,Não Funcional,Não,Não usável
+51,Sensor 51,Bom,Não Funcional,Não Funcional,Não,Não usável
+52,Sensor 52,Ruim,Funcional,Funcional,Sim,Não usável
+53,Sensor 53,Bom,Funcional,Não Funcional,Sim,Usável
+54,Sensor 54,Ruim,Funcional,Funcional,Não,Não usável
+55,Sensor 55,Bom,Não Funcional,Não Funcional,Sim,Não usável
+56,Sensor 56,Bom,Funcional,Não Funcional,Sim,Não usável
+57,Sensor 57,Bom,Não Funcional,Funcional,Sim,Usável
+58,Sensor 58,Regular,Não Funcional,Não Funcional,Não,Não usável
+59,Sensor 59,Regular,Funcional,Funcional,Sim,Usável
+60,Sensor 60,Bom,Não Funcional,Funcional,Não,Usável
+61,Sensor 61,Ruim,Não Funcional,Funcional,Sim,Não usável
+62,Sensor 62,Ruim,Funcional,Funcional,Não,Não usável
+63,Sensor 63,Ruim,Não Funcional,Não Funcional,Sim,Não usável
+64,Sensor 64,Regular,Não Funcional,Funcional,Sim,Não usável
+65,Sensor 65,Regular,Funcional,Não Funcional,Não,Não usável
+66,Sensor 66,Bom,Funcional,Não Funcional,Sim,Não usável
+67,Sensor 67,Regular,Não Funcional,Funcional,Sim,Usável
+68,Sensor 68,Ruim,Funcional,Não Funcional,Não,Usável
+69,Sensor 69,Ruim,Não Funcional,Funcional,Não,Usável
+70,Sensor 70,Regular,Funcional,Não Funcional,Sim,Não usável
+71,Sensor 71,Regular,Não Funcional,Funcional,Não,Não usável
+72,Sensor 72,Bom,Não Funcional,Funcional,Sim,Não usável
+73,Sensor 73,Bom,Funcional,Não Funcional,Sim,Não usável
+74,Sensor 74,Regular,Funcional,Não Funcional,Não,Usável
+75,Sensor 75,Bom,Funcional,Funcional,Sim,Usável
+76,Sensor 76,Ruim,Não Funcional,Funcional,Não,Não usável
+77,Sensor 77,Regular,Não Funcional,Não Funcional,Não,Usável
+78,Sensor 78,Bom,Funcional,Funcional,Sim,Usável
+79,Sensor 79,Bom,Funcional,Funcional,Não,Usável
+80,Sensor 80,Ruim,Funcional,Não Funcional,Não,Usável
+81,Sensor 81,Bom,Funcional,Funcional,Não,Não usável
+82,Sensor 82,Bom,Não Funcional,Funcional,Não,Usável
+83,Sensor 83,Regular,Não Funcional,Não Funcional,Não,Usável
+84,Sensor 84,Ruim,Não Funcional,Não Funcional,Não,Não usável
+85,Sensor 85,Bom,Funcional,Funcional,Não,Não usável
+86,Sensor 86,Regular,Não Funcional,Funcional,Não,Usável
+87,Sensor 87,Bom,Não Funcional,Funcional,Sim,Usável
+88,Sensor 88,Ruim,Não Funcional,Não Funcional,Sim,Não usável
+89,Sensor 89,Ruim,Funcional,Funcional,Não,Usável
+90,Sensor 90,Regular,Funcional,Funcional,Não,Usável
+91,Sensor 91,Regular,Funcional,Funcional,Sim,Usável
+92,Sensor 92,Regular,Funcional,Funcional,Sim,Não usável
+93,Sensor 93,Bom,Não Funcional,Funcional,Sim,Usável
+94,Sensor 94,Bom,Funcional,Funcional,Sim,Usável
+95,Sensor 95,Ruim,Não Funcional,Não Funcional,Sim,Usável
+96,Sensor 96,Bom,Não Funcional,Não Funcional,Não,Não usável
+97,Sensor 97,Ruim,Não Funcional,Não Funcional,Sim,Usável
+98,Sensor 98,Bom,Não Funcional,Funcional,Não,Não usável
+99,Sensor 99,Regular,Funcional,Não Funcional,Sim,Não usável
